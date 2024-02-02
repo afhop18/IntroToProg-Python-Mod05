@@ -3,7 +3,7 @@
 # Desc: This assignment demonstrates using dictionaries, files, and exception handling
 # Change Log: (Who, When, What)
 #   AFH, 1/29/2024. Created Script
-#   AFT, 1/30/2024, added try/except loops
+#   AFH, 1/30/2024, added try/except loops
 # ------------------------------------------------------------------------------------------ #
 
 import json
